@@ -10,4 +10,3 @@ Projeto feito no curso B7WEB
 ### Para rodar
 
 `NPM START`
-# imc-calc-2.0
